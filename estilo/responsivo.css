@@ -15,6 +15,12 @@
   #principal conteudo {
     align-items: center;
   }
+  #resultado-pesquisa .cards {
+    grid-template-columns: 1fr;
+  }
+  #resultado-pesquisa .cards img {
+    height: 250px;
+  }
 }
 
 @media (min-width: 1700px) {
