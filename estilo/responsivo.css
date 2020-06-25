@@ -44,20 +44,19 @@
     align-items: center;
   }
   #cadastro header a span {
-  
-      background-image: none;
-       
-      display: flex;
-      justify-content: space-between;
-      margin-top: 20px;
-       
-    }
+    background-image: none;
+
     display: flex;
-    margin-top: 100px;
+    justify-content: space-between;
+    margin-top: 20px;
   }
 
   #cadastro form h1 {
     font-size: 26px;
+  }
+
+  #cadastro legend span {
+    font-size: 10px;
   }
 
   /*MAX-W 900PX*/
