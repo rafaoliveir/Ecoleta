@@ -1,4 +1,5 @@
 @media (max-width: 385px) {
+  
   #principal {
     background-position-x: 50vw;
   }
@@ -58,10 +59,12 @@
   #cadastro legend span {
     font-size: 10px;
   }
+  }
 
   /*MAX-W 900PX*/
 
   @media (max-width: 900px) {
+    
     #principal {
       background-position-x: 70vw;
     }
