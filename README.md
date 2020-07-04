@@ -16,5 +16,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Javascript
 
 ## 🚀 Next Level Week
-Projeto realizado para a semana do meio ambiente <br>
+Projeto realizado para a semana do meio ambiente. <br>
 Organizado pela Rocketseat.
